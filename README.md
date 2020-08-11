@@ -9,7 +9,7 @@
 6. Word Cloud
 7. Sentiment Analysis
 
-**Collect data from sources**  *First step here starts with collecting data from different sources like Google finance, Yahoo finance, twitter, stock market news, etc. We have loads and loads of data but only the relevant data should be extracted for our purpose. For this project I used yahoo finance to choose the 3 largest gainer stocks and 3 largest loser stocks of my choice, that has at least 100 tweets for each stock for that day. (https://finance.yahoo.com/)*
+**Collect data from sources**  *First step here starts with collecting data from different sources like Google finance, Yahoo finance, twitter, stock market news, etc. We have loads and loads of data but only the relevant data should be extracted for our purpose. For this project I used yahoo finance to choose the largest gainer stocks and largest loser stocks of my choice, that has at least 100 tweets for each stock for that day. (https://finance.yahoo.com/)*
 
 **Fetch Twitter data** *To fetch the twitter data we would need to create an application using twitter API. The data Connection is authenticated using oauth and Data is fetched using the twitteR library. Using these libraries datasets are created.*
 
